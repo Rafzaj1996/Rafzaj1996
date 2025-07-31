@@ -13,11 +13,11 @@ Uwielbiam rozwiązywać złożone problemy, optymalizować procesy i wydobywać 
 ## 🚀 Wybrane projekty
 
 - 🔁 **Automatyzacja analizy wyciągów bankowych (Make.com)**  
-  Workflow wykonany w Make.com do analizy wyciągów bankowych. Integrujący AirTable, CRM, OpenAI. 
+  Workflow wykonany w Make.com do analizy wyciągów bankowych. Integrujący AirTable, CRM, OpenAI.  
   👉 *[Link do repozytorium](https://github.com/Rafzaj1996/Make.com-analysis-of-bank-statements-in-CSV-files)*
 
 - 📦 **Automatyzacja przetwarzania zamówień PDF (Make.com)**  
-  Workflow z OCR (Google Cloud Vision), AirTable i OpenAI API do ekstrakcji danych z PDF i tworzenia zamówień w CRM. 
+  Workflow z OCR (Google Cloud Vision), AirTable i OpenAI API do ekstrakcji danych z PDF i tworzenia zamówień w CRM.  
   👉 *[Link do repozytorium](https://github.com/Rafzaj1996/Make.com-OCR-order-processing)*
   
 - 🐍 **Web scraper: Tenis stołowy**  
