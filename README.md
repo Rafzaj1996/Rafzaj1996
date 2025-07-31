@@ -43,7 +43,7 @@ Uwielbiam rozwiązywać złożone problemy, optymalizować procesy i wydobywać 
 
 ## 📬 Kontakt
 
-📧 rafzaj96@wp.pl
+📧 rzajkows@gmail.com
 
 ---
 
